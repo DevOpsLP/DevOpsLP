@@ -1,49 +1,79 @@
-# Hi, I'm Luis, know me a bit more :)
+## Hi, I’m Luis Parada 👋
 
-I'm a 30 years Old, with a degree on _Electrical Engenieer_ ⚡️. I have a deep understanding on how computers work from the very deep of them `(I loved boolean functions ♥️)`.
-Once I graduated I learned how to code PLC for a master on Industrial Automatization but later on I discovered that I actually wanted to learn how to code anything.
+**Software Engineer | Backend-Focused | Systems & Architecture**
 
-I decided to start my own projects, which lead me to my foundations as **SELF-TAUGHT** Developer through the years. Jumping between different programming languages like JavaScript, Python or GoLang.
-These all were applied differently through the years and looking for a more scalable way to develop my applications I learned **Architectures** and common methodologies for my Job.
+I’m a software engineer with a strong engineering foundation and a problem-driven mindset. My background combines **electrical engineering principles**, **systems thinking**, and **practical software architecture**, which allows me to design scalable, reliable solutions for real business needs.
 
-A interested thing about me is that I also loved trading, how complex was the market and I decided to go deep into the **algorithms**, which developed in me a different point of view for complex tasks and finding the solutions for all of them.
+I started my career working with **industrial automation and PLC programming**, which gave me a deep understanding of how systems behave at a low level. Over time, I transitioned fully into software development, becoming a **self-taught engineer** through years of building production systems, client solutions, and internal tools.
 
-I never give up in front of a problem, and I'm always looking to learn new technologies and new paths. Like when the time for me to meet **AWS** or **GCP** came and the necesity for **Github** and their control sources.
-Or when I had to learn about the **Linux Command Line** to start installing **Nginx** on small servers as a reverse proxy and start my very first deployments.
+Today, my work focuses on **backend systems, APIs, data flows, and infrastructure**, with a strong emphasis on **correctness, scalability, and cost-efficiency**.
 
-Through the years I focused on **SOLVING PROBLEMS** for business, and improving their **cost-benefit** tools. Which I had the opportunity to face with **MANY clients** on **FIVERR**.
+---
 
-I don't want to make my introduction too long, so I will list a bit of all the Language and Frameworks I have worked through the years 🚀
+## What I Do
 
-# Technologies 👨🏻‍💻
+* Design and build **backend services and APIs**
+* Architect **scalable systems** with clear data models
+* Integrate **payment systems, third-party APIs, and automation**
+* Optimize **cost, performance, and operational reliability**
+* Deploy and maintain applications in **cloud and Linux environments**
+* Solve complex problems with a **pragmatic, engineering-first approach**
 
-- JavaScript
-- TypeScript
-- NodeJS
-- React
-- Vue
-- Python
-- GoLang
-- C#
-- .NET
-- Web Scrapping
-- AWS, GCP or Azure
-- DevOps
-- CI/CD
-- Architectures
-- Github (_Obviously lol_)
-- API REST
-- Postman (not really, I like more _Insomnia_)
-- Docker
-- Algorithms
-- PineScript (_If you are a trader, you eventually get to know what is this_)
+I’m particularly interested in **algorithmic thinking**, **financial systems**, and **trading-related tooling**, which has sharpened my ability to reason about edge cases, risk, and system behavior under pressure.
 
-_Probably I'm forgetting something so If you wonder If I'm capable to do anything else that's not in this list, the answer is probably yes, just haven't tried yet._
+---
 
-# Contact
+## Technical Stack 🧠
 
-Send me an email with your proposal to work together :)
+**Languages**
 
-[Email me](luis.94sh@gmail.com)
+* JavaScript / TypeScript
+* Python
+* Go
+* C# (.NET)
 
+**Frameworks & Platforms**
+
+* Node.js
+* React / Vue
+* REST APIs
+* Docker
+
+**Infrastructure & DevOps**
+
+* AWS / GCP / Azure
+* Linux (CLI, server administration)
+* Nginx (reverse proxy, deployments)
+* CI/CD pipelines
+* Git & GitHub
+
+**Concepts & Practices**
+
+* Software Architecture
+* System Design
+* Algorithms & Data Processing
+* DevOps & Automation
+* Cost-efficient system design
+
+**Other**
+
+* Web scraping & data ingestion
+* Trading & algorithmic analysis
+* Pine Script
+
+---
+
+## Professional Experience
+
+Over the years, I’ve worked with **multiple clients and businesses**, delivering production-ready solutions with a strong focus on **business value and long-term maintainability**. This includes freelance and contract work, where reliability, communication, and execution matter.
+
+I’m used to owning systems end-to-end — from idea to deployment.
+
+---
+
+## Contact
+
+If you’d like to collaborate or discuss a project:
+
+📧 **Email:** [luis.94sh@gmail.com](mailto:luis.94sh@gmail.com)
 
